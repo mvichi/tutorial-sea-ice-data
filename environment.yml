@@ -1,0 +1,12 @@
+name: si-practical
+channels:
+- conda-forge
+dependencies:
+- python=3.7*
+- matplotlib
+- numpy
+- jupyterlab
+- xarray
+- cftime
+- cartopy >= 0.19*
+- cmocean
